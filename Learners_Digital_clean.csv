@@ -1,0 +1,48 @@
+User_ID,Nom,Cours,Temps_Connexion_h,Activités_Complétées,Score_Quiz_%,Feedback,Certifié
+U014,Yacine,IA Santé,10,4.0,47.1,Excellent,yes
+U016,Reda,Web Dev,6,2.0,72.2,bof,yes
+U023,Yasmine,Python DS,10,,43%,Moyen,Non
+U037,Mounia,IA Santé,13,3.0,73.3,Moyen,Non
+U041,Walid,Web Dev,7,8.0,62.9,Moyen,N
+U025,Sofiane,Web Dev,6,4.0,46%,Excellent,Non
+U002,Farah,IA Santé,12,5.0,66.2,Excellent,Oui
+U021,Brahim,Web Dev,4,9.0,80.2,Excellent,N
+U011,Rim,Python DS,14,8.0,50.9,Faible,Non
+U035,Mehdi,Python DS,3,2.0,62.8,Moyen,Non
+U030,Sabrina,Python DS,5,5.0,75.7,Moyen,Non
+U045,Sami,IA Santé,11,7.0,74.7,Faible,N
+U033,Chaima,Data Viz, 3h ,6.0,,Faible,O
+U019,Kenza,Python DS,12,3.0,54.8,Excellent,yes
+U018,Lamia,Python DS,7,9.0,63.9,Excellent,Non
+U034,Rania,Data Viz,12,6.0,63.1,Excellent,Non
+U028,Imane,IA Santé,1,4.0,80.8,,O
+U042,Aya,Web Dev,13,2.0,65.5,Excellent,
+U010,Hassan,Python DS,12,9.0,55.6,Moyen,Non
+U003,Zahra,Python DS,4,,44%,Moyen,Oui
+U031,Hiba,IA Santé,14,4.0,45.5,Bon,N
+U017,Lina B.,IA Santé, 9h ,4.0,69.9,Moyen,Oui
+U022,Nourhane,IA Santé, 7h ,3.0,43%,Excellent,Oui
+U006,Souad,Python DS,7,8.0,,Moyen,N
+U032,Sara M.,Python DS,3,7.0,56.9,Excellent,Non
+U044,Fouad,Web Dev,11,2.0,57.2,exellent,Non
+U007,Nabila,Python DS, 2h ,4.0,43.4,,Oui
+U036,Hakim,Python DS, 14h ,2.0,,,
+U039,Manel,Python DS,14,,86.1,Moyen,Oui
+U012,Houda,Python DS,7,7.0,93.3,,Non
+U001,Ali.K ,Web Dev,2,6.0,49.3,Bon,Non
+U013,Amine,Web Dev, 4h ,1.0,60.2,Excellent,O
+U008,Khaled,IA Santé,1,9.0,58.1,Faible,Non
+U040,Yahia,IA Santé,5,6.0,69.9,Bon,Oui
+U038,Karim,IA Santé,4,,65.2,Moyen,Non
+U027,Omar,IA Santé,14,6.0,59.3,Bon,N
+U043,Salim,Web Dev,7,8.0,77.2,bof,Non
+U009,Hamza,IA Santé,9,7.0,63.7,Excellent,Oui
+U043,Salim,Web Dev,7,8.0,77.2,bof,Non
+U015,Nadia,Data Viz,14,6.0,100.0,Excellent,Non
+U029,Ikram ,Python DS,5,9.0,82.2,Moyen,Oui
+U040,Yahia,IA Santé,5,6.0,69.9,Bon,Oui
+U024,Amina,IA Santé,11,8.0,62.3,Faible,Oui
+U020,Nour ,Data Viz,4,4.0,79.9,Moyen,Non
+U004,Nour,Python DS,11,7.0,58%,Faible,no
+U026,Asmaa,IA Santé,8,4.0,70.1,Bon,Non
+U005,Nesrine,Python DS,8,4.0,69.3,Excellent,Non
